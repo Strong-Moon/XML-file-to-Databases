@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IF4SYTuQeSj+C/lJkJDRLPReH71f5iAibfMwK2wdssu6cKzWZzMCdXHnpfjDuwMyeZynNQdRMLH4mLmewmFjZg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual_Studio_Project\\C#\\DATA_update\\PostgreSQL\\PostgreSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berkay Pehlivan\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\Berkay Pehlivan\\.nuget\\packages\\postgresqlcopyhelper\\2.8.0\\postgresqlcopyhelper.2.8.0.nupkg.sha512",
+    "C:\\Users\\Berkay Pehlivan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
