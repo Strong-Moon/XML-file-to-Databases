@@ -1,5 +1,5 @@
 # XML-file-to-Databases
-It measures the performances while you have sent the XML files to databases.
+It measures the performances while you have sent the XML files to databases.(PostgreSQL and MongoDB)
 
 
 # XML file to database
